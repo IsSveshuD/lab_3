@@ -1,0 +1,9 @@
+print("Введите 4 числа:")
+a = int(input("a="))
+b = int(input("b="))
+c = int(input("c="))
+d = int(input("d="))
+x1 = a+b
+x2 = c+d
+x = x1/x2
+print('%.2f' % x)
